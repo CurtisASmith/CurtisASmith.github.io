@@ -4,3 +4,12 @@
 @import "{{ site.theme }}";
 $body-font: 'Chakra Petch', sans-serif;
 $mono-font: 'Roboto Mono', monospace;
+
+html {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+body {
+    color: #fff
+	background-color: #1b1f23
+}

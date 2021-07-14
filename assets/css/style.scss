@@ -19,7 +19,7 @@ table, tbody, th, tr, td{
 }
 
 td {
-    background-color: #cdc7c8
+    background-color: #888197
 }
 
 hr,
@@ -29,6 +29,6 @@ hr,
   overflow: hidden;
   background: transparent;
   border: 0;
-  border-bottom: 1px solid darken($gray-300, 5%);
+  border-bottom: 1px solid darken(#1b231f, 25%);
   @include clearfix();
 }

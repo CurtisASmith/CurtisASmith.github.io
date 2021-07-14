@@ -1,1 +1,8 @@
+# Site settings
+title: Wyrdcurt.Art
+description: Digital artist, creating with machine learning/AI tools
+keywords: art, digital, AI, machine learning
+author: Wyrdcurt
+baseurl: ""
+url: "https://www.wyrdcurt.art/"
 theme: jekyll-theme-minimal

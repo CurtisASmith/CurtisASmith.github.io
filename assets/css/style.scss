@@ -21,3 +21,14 @@ table, tbody, th, tr, td{
 td {
     background-color: #231b1f
 }
+
+hr,
+.rule {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid darken($gray-300, 5%);
+  @include clearfix();
+}

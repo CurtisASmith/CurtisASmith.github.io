@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Wyrdcurt
+# [Wyrdcurt](https://www.wyrdcurt.art)
+
+[About](./about.html)
 
 ## Completed Projects
 - bullet point

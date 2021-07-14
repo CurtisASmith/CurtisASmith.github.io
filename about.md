@@ -12,10 +12,10 @@ layout: default
 
 - [Artist](javascript:;)
 
-- [Writer](https://drive.google.com/file/d/1dM0MQa5KBOBPEq5vEf10bKO4zV3xMZE1/view?usp=sharing)
+- [Writer](javascript:;)
 
-- [Developer](https://github.com/CurtisASmith)
+- [Developer](javascript:;)
 
-- [Designer](https://www.wyrdcurt.art)
+- [Designer](javascript:;)
 
 - [Philosopher](javascript:;)

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**About** | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
+**About** | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Instagram](https://www.instagram.com/wyrdcurt/) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
 
 ## About
 

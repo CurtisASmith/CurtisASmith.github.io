@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[About](./about.html) | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
+[About](./about.html) | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Instagram](https://www.instagram.com/wyrdcurt/) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
 
 ## Highlights
 **[How To Fine-Tune GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/blob/master/howto_finetune.md)**

@@ -2,4 +2,13 @@
 layout: default
 ---
 
-This is likely easier to modify.
+# Wyrdcurt
+
+## Completed Projects
+- bullet point
+
+## Works In Progress
+- another bullet point
+
+## Other Things
+- put more stuff here soon

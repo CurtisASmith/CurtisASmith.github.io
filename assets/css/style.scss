@@ -9,17 +9,21 @@ html {
     font-family: 'Chakra Petch', sans-serif;
 }
 
+a {
+    color: #fa67bc;
+}
+
 body {
-    color: #fff;
+    color: #b77dd9;
     background-color: #1b1f23;
 }
 
-table, tbody, th, tr, td{
-    border-color: #1b231f
+.markdown-body table th, .markdown-body table td {
+    border: 1px solid #573468;
 }
 
 td {
-    background-color: #888197
+    background-color: #161622
 }
 
 hr,

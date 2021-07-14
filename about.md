@@ -8,7 +8,7 @@ layout: default
 
 ![some trippy image](/assets/imgs/seed0068.png)
 
-*An adaptable generalist* | *A contemporary Cassandra*
+*all of this* | *and more*
 
 - [Artist](javascript:;)
 

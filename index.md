@@ -6,6 +6,8 @@ layout: default
 
 ## Highlights
 **[How To Fine-Tune GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/blob/master/howto_finetune.md)**
+
+![some trippy image](/assets/imgs/seed0015.png)
 - If you want to fine-tune a large language model, GPT-J is a good place to start (at least now, in July 2021). I wrote a guide on how to do so, part of the [official repo here](https://github.com/kingoflolz/mesh-transformer-jax).
 
 **[This Bot Crime Did Not Occur](https://twitter.com/BotMugshots)**
@@ -15,10 +17,14 @@ layout: default
 - The US imprisons too many people; mugshots shouldn't be so widely available. More in the pinned tweet thread.
 
 ## Works In Progress
+
+![some trippy image](/assets/imgs/seed0042.png)
 - a novel
 - a game with N.H.
 - more wyrd art
 
 ## Other Things
 **[Technoalchemy (PDF)](https://drive.google.com/file/d/1dM0MQa5KBOBPEq5vEf10bKO4zV3xMZE1/view?usp=sharing)**
+
+![some trippy image](/assets/imgs/seed0045.png)
 - A "spiritual guide" written in conjunction with GPT-3. My first AI-assisted publication.

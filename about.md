@@ -6,7 +6,9 @@ layout: default
 
 ## About
 
-*An adaptable generalist | A contemporary Cassandra*
+![some trippy image](/assets/imgs/seed0068.png)
+
+*An adaptable generalist* | *A contemporary Cassandra*
 
 - [Artist](javascript:;)
 

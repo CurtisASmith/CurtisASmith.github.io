@@ -1,7 +1,7 @@
 # Site settings
 title: Wyrdcurt.Art
-description: Digital artist, creating with machine learning/AI tools
-keywords: art, digital, AI, machine learning
+description: Website and blog for digital artist, developer, and writer, Curtis A. Smith; aka Wyrdcurt. They are creating with novel machine learning/AI tools; their focus is on GANs such as StyleGAN and NLP transformers such as GPT-3 and GPT-J, as well as the philosophical issues surrounding the development of such systems.
+keywords: art, digital, AI, machine learning, writer, developer, natural language processing
 author: Wyrdcurt
 baseurl: ""
 url: "https://www.wyrdcurt.art/"

@@ -2,14 +2,18 @@
 layout: default
 ---
 
-[About](./about.html) | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Instagram](https://www.instagram.com/wyrdcurt/) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
+[About](./about.html) | [Gallery](./gallery.html) | [Twitter](https://twitter.com/wyrdcurt) | [Facebook](https://www.facebook.com/wyrdcurt) | [Instagram](https://www.instagram.com/wyrdcurt/) | [Reddit](https://www.reddit.com/user/Wyrdcurt) | [GitHub](https://github.com/CurtisASmith)
 
 ## Highlights
+**[The Gallery](./gallery.html)**
+
+- Finally, a page dedicated to some of my favorite creations. [Check it out here.](./gallery.html)
+
+![some trippy image](/assets/imgs/seed0015.png)
+
 **[How To Fine-Tune GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/blob/master/howto_finetune.md)**
 
 - If you want to fine-tune a large language model, GPT-J is a good place to start (at least now, in July 2021). I wrote a guide on how to do so, part of the [official repo here](https://github.com/kingoflolz/mesh-transformer-jax).
-
-![some trippy image](/assets/imgs/seed0015.png)
 
 **[This Bot Crime Did Not Occur](https://twitter.com/BotMugshots)**
 
